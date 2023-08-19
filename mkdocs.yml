@@ -1,0 +1,5 @@
+site_name: Holm-Seppensen
+theme:
+    name: material
+    palette:
+      scheme: slate
