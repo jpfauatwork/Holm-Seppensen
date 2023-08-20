@@ -52,6 +52,6 @@ Die Existenz des Zwergentunnels war durch die Modernisierung der Heidebahn im Ja
 Besonders nach starken Regenfällen steht der Zwergentunnel unter Wasser.
 
 ### Trampelpfade 
-Trotz der drei Querungsmöglichkeiten für Fußgänger sind entlang der Strecke im gesamten Ortsteil Trampelpfade zu erkennen, die zur unerlaubten Überquerung der Bahnstrecke genutzt werden. Die Gleisquerer nutzen die Wege, um große Umwege zur Bushaltestelle, dem Haltepunkt Holm-Seppensen oder nach Hause und zu sparen. 
+Trotz der drei Querungsmöglichkeiten für Fußgänger sind entlang der Strecke im gesamten Ortsteil Trampelpfade zu erkennen, die zur unerlaubten Überquerung der Bahnstrecke genutzt werden. Die Gleisquerer nutzen die Wege, um große Umwege zur Bushaltestelle, dem Haltepunkt Holm-Seppensen oder nach Hause zu sparen. 
 
 Bekannte Querungen befinden sich an der Kreuzung Vesperweg/Eidigweg und Falkenweg/Eidigweg. An letzterer ereignete sich im November 2017 ein Unfall, bei dem ein Gleisquerer den aus Buchholz kommenden Zug übersah, erfasst und tödlich verletzt wurde. Im folgenden Jahr wurden die Bereiche von der DB Netz AG mit Barrieren und Warnschildern versehen. Die Nutzung der Trampelpfade ist dennoch allgegenwärtig.
