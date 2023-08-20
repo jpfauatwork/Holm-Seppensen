@@ -38,7 +38,7 @@ Der Bahnübergang Tostedter Weg befindet sich im Norden auf dem Streckenkilomete
 Die Kreuzung wird durch Halbschranken, akustischen Warnsignalen und Lichtanlagen gesichert. Der Straßenquerschnitt des Tostedter Wegs wird auf beiden Seiten kurz vor dem Bahnübergang von einer Fahrbahn mit Fahrbahnbegrenzung in eine Fahrbahn mit Fahrbahnbegrenzung und pro Fahrtrichtung einem Fahrstreifen mit einer Fahrstreifenbegrenzung in der Mitte geändert. Markierungen für Fußgänger sind nicht vorhanden.
 
 ### Bahnübergang Lohbergenweg
-Der Bahnübergang an der Kreisstraße 72, innerorts Lohbergenweg befindet sich in der Ortsmitte, trägt bei der DB Netz AG den Namen Holm-Seppensen liegt sich auf dem Streckenkilometer 127,19. 
+Der Bahnübergang an der Kreisstraße 72, innerorts Lohbergenweg befindet sich in der Ortsmitte, trägt bei der DB Netz AG den Namen Holm-Seppensen liegt auf dem Streckenkilometer 127,19. 
 
 Auf der Westseite befindet sich für die Sicherung der Fahrbahn eine Halbschranke und die Fußwege links und rechts von der Fahrbahn jeweils eine Vollschranke. Auf der Ostseite wird der rechte Fußweg und die Fahrbahn durch eine Halbschranke und der linke Fußweg durch eine Vollschranke gesichert. Zusätzlich werden akustische Signale und eine Lichtanlage verwendet.
 
