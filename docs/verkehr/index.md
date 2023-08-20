@@ -6,7 +6,7 @@ Mit den Verkehrsmitteln kann innerhalb von 6 bzw. 15 Minuten der Bahnhof Buchhol
 ### Artikel
 
 !!! info "Artikel zum ÖPNV"
-	[Die Heidebahn](verkehr/oepnv/heidebahn.md)
+	[Die Heidebahn](verkehr/oepnv/heidebahn)
 	
-	[Der Heide-Shuttle](verkehr/oepnv/heide-shuttle.md)
+	[Der Heide-Shuttle](verkehr/oepnv/heide-shuttle)
 	
