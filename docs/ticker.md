@@ -19,7 +19,7 @@ Der BUVV war in der Vergangenheit für die Organisation des Heideblütenfestes i
 
 **Samstag, der 19. August 2023**
 
-Ein Verkehrsunfall Ereignet sich an der Buchholzer Landstraße zwischen einer Radfahrerin und einem PKW. Die Buchholzer Landstraße war während des Rettungseinsatzes für eine Stunde gesperrt.
+Ein Verkehrsunfall ereignet sich an der Buchholzer Landstraße zwischen einer Radfahrerin und einem PKW. Die Buchholzer Landstraße ist aufgrund des Rettungseinsatzes für eine Stunde gesperrt.
 
 !!! note annotate "Quellen"
 
