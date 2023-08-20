@@ -3,3 +3,16 @@ theme:
     name: material
     palette:
       scheme: slate
+nav:
+  - 'Einleitung': 'index.md'
+  - 'Ticker': 'ticker.md'
+  - 'Verkehr':
+    - 'Übersicht': 'verkehr/index.md' 
+    - 'ÖPNV':
+      - 'Heidebahn': 'verkehr/oepnv/heidebahn.md'
+      - 'Heide-Shuttle': 'verkehr/oepnv/heide-shuttle.md'
+markdown_extensions:
+  - admonition
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
