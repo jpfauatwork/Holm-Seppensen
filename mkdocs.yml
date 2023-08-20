@@ -1,8 +1,16 @@
 site_name: Holm-Seppensen
+repo_url: https://github.com/jpfauatwork/Holm-Seppensen
+repo_name: Holm-Seppensen
 theme:
     name: material
+    favicon: images/favicon.png
+    icon:
+      logo: material/map
+      repo: fontawesome/brands/github
     palette:
       scheme: slate
+    features:
+      - navigation.sections
 nav:
   - 'Einleitung': 'index.md'
   - 'Ticker': 'ticker.md'
@@ -16,3 +24,5 @@ markdown_extensions:
   - def_list
   - pymdownx.details
   - pymdownx.superfences
+plugins:
+  - search
