@@ -35,7 +35,7 @@ Buchholz Digital kündigt an, dass mit dem Anschluss des letzten Ausbaugebiets "
 
     [Pressemeldung Buchholz Digital](https://buchholz-digital.de/news-88/holm-seppensen-sued-ausbau-gestartet.html)
 
-Dienstag, der 15. August 2023
+**Dienstag, der 15. August 2023**
 
 Die Verbände Buchholz Zero, BUND, Greenpeace und NABU fordern die Stadt Buchholz in einer Pressemitteilung auf, erneut zu prüfen, ob für den Neubau der Freiwilligen Feuerwehr in Holm-Seppensen auch die Fläche bei Up de Hoge Luft infrage kommt. Hauptkritikpunkt an der derzeit geplanten Fläche am Schoolsolt/Tostedter Weg/Buchholzer Landstraße sei, dass diese gegenwärtig eine höheren ökologische Bedeutung habe, da sie von den Bienenbotschaftern in den vergangenen Jahren zum Schutz der Insektenvielfalt aufbereitet wurde. So wurden Wildwiesen angelegt und auch ein Insektenhotel errichtet.
 
